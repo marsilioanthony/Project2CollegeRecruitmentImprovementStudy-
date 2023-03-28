@@ -1,0 +1,132 @@
+,course,website_influenced,counselor_influenced,major,gender,race,age
+0,CMP101 Computer Lit,0,1,Early Childhood Education,W,Hispanic or Latino,18 and younger
+1,CMP135 Concept and App,0,0,Public Health,W,White/Caucasian,21-24
+2,CMP135 Concept and App,0,1,Radiography,W,White/Caucasian,19-20
+3,CMP135 Concept and App,0,0,Exercise Science,M,White/Caucasian,19-20
+4,CMP101 Computer Lit,0,0,Liberal Arts,M,White/Caucasian,19-20
+5,CMP101 Computer Lit,1,0,Liberal Arts,W,White/Caucasian,19-20
+6,CMP101 Computer Lit,1,1,Nursing,W,Hispanic or Latino,18 and younger
+7,CMP101 Computer Lit,1,0,Nursing,W,Black/African American,25-34
+8,CMP101 Computer Lit,0,0,Nursing,W,Black/African American,25-34
+9,CMP101 Computer Lit,0,1,Nursing,W,Hispanic or Latino,19-20
+10,CMP101 Computer Lit,0,0,Nursing,W,Hispanic or Latino,21-24
+11,CMP101 Computer Lit,0,1,Liberal Arts,W,Choose not to reply,18 and younger
+12,CMP126 Tech and App,0,1,Not in a degree program,M,Choose not to reply,18 and younger
+13,CMP135 Concept and App,0,0,Exercise Science,M,White/Caucasian,18 and younger
+14,CMP101 Computer Lit,0,1,Liberal Arts,W,White/Caucasian,19-20
+15,CMP101 Computer Lit,0,0,Psychology ,M,Hispanic or Latino,25-34
+16,CMP135 Concept and App,1,1,Liberal Arts,W,Multi-Racial,19-20
+17,CMP135 Concept and App,1,0,Criminal Justice,W,White/Caucasian,35-64
+18,CMP135 Concept and App,0,0,Criminal Justice,M,White/Caucasian,21-24
+19,CMP135 Concept and App,1,1,Radiography,W,White/Caucasian,25-34
+20,CMP101 Computer Lit,1,0,Nursing,W,White/Caucasian,21-24
+21,CMP101 Computer Lit,1,1,Nursing,M,Multi-Racial,21-24
+22,CMP135 Concept and App,0,0,Exercise Science,W,Hispanic or Latino,19-20
+23,CMP101 Computer Lit,0,0,Liberal Arts,NA,Choose not to reply,25-34
+24,CMP126 Tech and App,0,1,Liberal Arts,W,Hispanic or Latino,19-20
+25,CMP126 Tech and App,1,0,Computer Information Systems,M,Black/African American,35-64
+26,CMP101 Computer Lit,0,0,Liberal Arts,W,White/Caucasian,19-20
+27,CMP126 Tech and App,0,1,Early Childhood Education,W,White/Caucasian,25-34
+28,CMP126 Tech and App,1,1,Criminal Justice,M,White/Caucasian,18 and younger
+29,CMP126 Tech and App,0,1,Liberal Arts,NA,Multi-Racial,19-20
+30,CMP126 Tech and App,0,0,Nursing,W,Multi-Racial,19-20
+31,CMP126 Tech and App,1,1,Criminal Justice,W,White/Caucasian,18 and younger
+32,CMP126 Tech and App,0,0,Broadcasting Arts and Technology,M,Choose not to reply,19-20
+33,CMP126 Tech and App,1,1,Liberal Arts,W,Hispanic or Latino,18 and younger
+34,CMP126 Tech and App,0,1,Communication,M,White/Caucasian,21-24
+35,CMP126 Tech and App,0,0,Liberal Arts,M,Black/African American,18 and younger
+36,CMP126 Tech and App,0,0,Liberal Arts,M,Choose not to reply,19-20
+37,CMP126 Tech and App,0,1,Communication,W,White/Caucasian,19-20
+38,CMP126 Tech and App,0,1,Journalism,M,White/Caucasian,18 and younger
+39,CMP126 Tech and App,0,1,Communication,W,White/Caucasian,18 and younger
+40,CMP101 Computer Lit,0,1,Nursing,W,White/Caucasian,18 and younger
+41,CMP101 Computer Lit,0,1,Nursing,W,White/Caucasian,19-20
+42,CMP101 Computer Lit,0,0,Business Administration,M,Black/African American,19-20
+43,CMP101 Computer Lit,1,1,Liberal Arts,W,Hispanic or Latino,25-34
+44,CMP126 Tech and App,0,1,Liberal Arts,W,White/Caucasian,19-20
+45,CMP126 Tech and App,1,1,Communication,W,White/Caucasian,19-20
+46,CMP135 Concept and App,1,1,Criminal Justice,M,Asian,21-24
+47,CMP135 Concept and App,0,1,Criminal Justice,M,White/Caucasian,21-24
+48,CMP101 Computer Lit,0,1,Nursing,W,Black/African American,21-24
+49,CMP126 Tech and App,0,1,Radiography,M,Black/African American,19-20
+50,CMP135 Concept and App,0,1,Radiography,W,White/Caucasian,18 and younger
+51,CMP135 Concept and App,0,0, want to go into radiography ,W,Hispanic or Latino,25-34
+52,CMP135 Concept and App,0,1,Biology,M,White/Caucasian,19-20
+53,CMP135 Concept and App,1,1,Business Administrative,M,White/Caucasian,18 and younger
+54,CMP135 Concept and App,1,1,Music Technology,M,Hispanic or Latino,18 and younger
+55,CMP135 Concept and App,1,1,Liberal Arts,W,Multi-Racial,19-20
+56,CMP135 Concept and App,0,0,Liberal Arts,W,Multi-Racial,18 and younger
+57,CMP135 Concept and App,0,1,Radiography,W,Hispanic or Latino,18 and younger
+58,CMP135 Concept and App,0,1,Early Childhood Education,W,Hispanic or Latino,19-20
+59,CMP135 Concept and App,0,0,Criminal Justice,M,Hispanic or Latino,19-20
+60,CMP135 Concept and App,0,0,Radiography,M,Black/African American,35-64
+61,CMP135 Concept and App,0,0,Not in a degree program,M,White/Caucasian,21-24
+62,CMP101 Computer Lit,0,1,biology ,W,Multi-Racial,18 and younger
+63,CMP135 Concept and App,0,0,Not in a degree program,M,White/Caucasian,19-20
+64,CMP126 Tech and App,0,1,Liberal Arts,M,Black/African American,18 and younger
+65,CMP135 Concept and App,0,0,Radiography,M,Hispanic or Latino,21-24
+66,CMP135 Concept and App,0,1,Radiography,M,Multi-Racial,25-34
+67,CMP135 Concept and App,0,0,Early Childhood Education,W,White/Caucasian,19-20
+68,CMP135 Concept and App,0,1,Criminal Justice,W,White/Caucasian,19-20
+69,CMP135 Concept and App,0,1,Early Childhood Education,W,White/Caucasian,19-20
+70,CMP135 Concept and App,0,0,Early Childhood Education,W,White/Caucasian,19-20
+71,CMP135 Concept and App,1,0,Nursing,W,White/Caucasian,19-20
+72,CMP135 Concept and App,0,0,Radiography,M,Multi-Racial,25-34
+73,CMP135 Concept and App,0,1,Early Childhood Education,W,White/Caucasian,19-20
+74,CMP135 Concept and App,0,0,Criminal Justice,M,White/Caucasian,19-20
+75,CMP135 Concept and App,1,1,Criminal Justice,M,Hispanic or Latino,19-20
+76,CMP101 Computer Lit,0,1,Radiography,W,White/Caucasian,19-20
+77,CMP135 Concept and App,1,1,Exercise Science,M,Hispanic or Latino,19-20
+78,CMP135 Concept and App,0,1,Music Technology,M,Black/African American,25-34
+79,CMP135 Concept and App,1,0,Radiography,W,Asian,21-24
+80,CMP135 Concept and App,0,1,Radiography,M,Hispanic or Latino,21-24
+81,CMP135 Concept and App,1,0,Exercise Science,M,Multi-Racial,21-24
+82,CMP135 Concept and App,0,1,Liberal Arts,W,Hispanic or Latino,19-20
+83,CMP135 Concept and App,1,1,Exercise Science,W,Hispanic or Latino,19-20
+84,CMP135 Concept and App,1,0,Criminal Justice,M,White/Caucasian,25-34
+85,CMP135 Concept and App,0,1,Criminal Justice,W,Multi-Racial,18 and younger
+86,CMP101 Computer Lit,1,0,Exercise Science,M,Hispanic or Latino,18 and younger
+87,CMP135 Concept and App,0,1,Exercise Science,W,White/Caucasian,25-34
+88,CMP135 Concept and App,1,1,Exercise Science,M,White/Caucasian,19-20
+89,CMP126 Tech and App,0,0,Teacher Education for Phys Ed and Health,M,Multi-Racial,21-24
+90,CMP126 Tech and App,0,1,Communication,M,White/Caucasian,25-34
+91,CMP101 Computer Lit,0,1,Early Childhood Education,W,White/Caucasian,19-20
+92,CMP101 Computer Lit,1,1,Nursing,W,White/Caucasian,18 and younger
+93,CMP101 Computer Lit,0,1,Liberal Arts,M,Hispanic or Latino,21-24
+94,CMP101 Computer Lit,0,1,Business,M,Multi-Racial,18 and younger
+95,CMP135 Concept and App,1,1,Computer Science,M,White/Caucasian,19-20
+96,CMP101 Computer Lit,1,0,Not in a degree program,M,Asian,25-34
+97,CMP135 Concept and App,0,0,Criminal Justice,M,Asian,19-20
+98,CMP135 Concept and App,0,1,Criminal Justice,M,White/Caucasian,18 and younger
+99,CMP135 Concept and App,0,1,Criminal Justice,W,Asian,18 and younger
+100,CMP135 Concept and App,0,0,Criminal Justice,W,Asian,18 and younger
+101,CMP135 Concept and App,0,0,Criminal Justice,W,Black/African American,18 and younger
+102,CMP135 Concept and App,0,0,Criminal Justice,W,White/Caucasian,18 and younger
+103,CMP135 Concept and App,0,1,Criminal Justice,W,White/Caucasian,18 and younger
+104,CMP135 Concept and App,1,0,Criminal Justice,W,White/Caucasian,18 and younger
+105,CMP135 Concept and App,1,1,Sharetime Criminal Justice Program,W,Asian,18 and younger
+106,CMP135 Concept and App,1,0,Criminal Justice,W,Multi-Racial,18 and younger
+107,CMP135 Concept and App,0,0,Criminal Justice,W,Multi-Racial,18 and younger
+108,CMP135 Concept and App,0,0,Criminal Justice,W,Asian,18 and younger
+109,CMP135 Concept and App,0,1,Criminal Justice,W,Asian,18 and younger
+110,CMP135 Concept and App,0,1,Criminal Justice,W,White/Caucasian,18 and younger
+111,CMP135 Concept and App,0,1,Criminal Justice,W,White/Caucasian,18 and younger
+112,CMP135 Concept and App,1,0,Criminal Justice,W,Hispanic or Latino,18 and younger
+113,CMP135 Concept and App,0,1,Criminal Justice,W,Multi-Racial,18 and younger
+114,CMP135 Concept and App,1,0,Human Services,M,Hispanic or Latino,35-64
+115,CMP135 Concept and App,1,1,Radiography,W,Black/African American,25-34
+116,CMP135 Concept and App,1,1,Criminal Justice,W,Multi-Racial,18 and younger
+117,CMP135 Concept and App,0,0,Criminal Justice,M,Asian,18 and younger
+118,CMP135 Concept and App,0,0,Criminal Justice,M,White/Caucasian,21-24
+119,CMP135 Concept and App,1,1,Radiography,W,Hispanic or Latino,18 and younger
+120,CMP135 Concept and App,0,1,Radiography,W,Hispanic or Latino,21-24
+121,CMP135 Concept and App,0,0,Exercise Science,M,Black/African American,18 and younger
+122,CMP135 Concept and App,0,1,Music Technology,W,White/Caucasian,21-24
+123,CMP135 Concept and App,0,0,Radiography,M,Asian,21-24
+124,CMP135 Concept and App,0,1,Radiography,W,Hispanic or Latino,18 and younger
+125,CMP135 Concept and App,0,1,Public Health,W,Hispanic or Latino,21-24
+126,CMP135 Concept and App,0,1,Exercise Science,W,Multi-Racial,21-24
+127,CMP135 Concept and App,0,0,biology,W,Multi-Racial,19-20
+128,CMP135 Concept and App,0,1,Radiography,M,Hispanic or Latino,19-20
+129,CMP135 Concept and App,0,0,Human Services,W,Hispanic or Latino,35-64
+130,CMP135 Concept and App,0,1,Criminal Justice,W,Hispanic or Latino,19-20
